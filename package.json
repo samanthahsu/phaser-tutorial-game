@@ -1,0 +1,14 @@
+{
+  "name": "phaser-tutorial-game",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samantha Hsu",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.23.0"
+  }
+}
