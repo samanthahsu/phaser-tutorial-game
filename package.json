@@ -9,6 +9,6 @@
   "author": "Samantha Hsu",
   "license": "ISC",
   "dependencies": {
-    "phaser": "^3.23.0"
+    "phaser": "^3.55.2"
   }
 }
